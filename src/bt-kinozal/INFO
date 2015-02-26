@@ -1,0 +1,12 @@
+{
+  "name": "bt-kinozal",
+  "displayname": "Kinozal",
+  "description": "Synox: Search torrent files to kinozal.tv (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://kinozal.tv",
+  "hostprefix": "kinozal.tv",
+  "accountsupport": true,
+  "module": "SynoDLMSearchKinozal.php",
+  "type": "search",
+  "class": "SynoDLMSearchKinozal"
+}

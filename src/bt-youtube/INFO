@@ -1,0 +1,12 @@
+{
+  "name": "bt-youtube",
+  "displayname": "YouTube",
+  "description": "Synox: Search broadcast to youtube.com (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://www.youtube.com",
+  "hostprefix": "www.youtube.com",
+  "accountsupport": true,
+  "module": "SynoDLMSearchYouTube.php",
+  "type": "search",
+  "class": "SynoDLMSearchYouTube"
+}

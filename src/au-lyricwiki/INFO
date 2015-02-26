@@ -1,0 +1,11 @@
+{
+  "name": "au-lyricwiki",
+  "displayname": "LyricWiki",
+  "description": "Synox: Song text search (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://lyrics.wikia.com",
+  "hostprefix": "lyrics.wikia.com",
+  "module": "SynoASSearchLyricWiki.php",
+  "type": "lyric",
+  "class": "SynoASSearchLyricWiki"
+}

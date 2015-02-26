@@ -1,0 +1,12 @@
+{
+  "name": "bt-rutor",
+  "displayname": "Rutor",
+  "description": "Synox: Search torrent files to rutor.org (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://new-rutor.org",
+  "hostprefix": "new-rutor.org, rutor.org",
+  "accountsupport": true,
+  "module": "SynoDLMSearchRutor.php",
+  "type": "search",
+  "class": "SynoDLMSearchRutor"
+}

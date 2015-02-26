@@ -1,0 +1,11 @@
+{
+  "name": "ht-nnmclub",
+  "displayname": "NoNaMe-Club",
+  "description": "Synox: Download torrent files to nnm-club.me (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://nnm-club.me",
+  "hostprefix": "nnm-club.me",
+  "authentication": "yes",
+  "module": "SynoFileHostingNNMClub.php",
+  "class": "SynoFileHostingNNMClub"
+}

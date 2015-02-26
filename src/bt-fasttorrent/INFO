@@ -1,0 +1,12 @@
+{
+  "name": "bt-fasttorrent",
+  "displayname": "Fast-Torrent",
+  "description": "Synox: Search torrent files to fast-torrent.ru (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://fast-torrent.ru",
+  "hostprefix": "fast-torrent.ru",
+  "accountsupport": true,
+  "module": "SynoDLMSearchFastTorrent.php",
+  "type": "search",
+  "class": "SynoDLMSearchFastTorrent"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bt-pornolab",
+  "displayname": "Pornolab",
+  "description": "Synox: Search torrent files to pornolab.net (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://pornolab.net",
+  "hostprefix": "pornolab.net",
+  "accountsupport": true,
+  "module": "SynoDLMSearchPornolab.php",
+  "type": "search",
+  "class": "SynoDLMSearchPornolab"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "au-bananan",
+  "displayname": "Bananan",
+  "description": "Synox: Translate song text (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://bananan.org",
+  "hostprefix": "bananan.org",
+  "module": "SynoASSearchBananan.php",
+  "type": "lyric",
+  "class": "SynoASSearchBananan"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ht-pornolab",
+  "displayname": "Pornolab",
+  "description": "Synox: Download torrent files to pornolab.net (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://pornolab.net",
+  "hostprefix": "pornolab.net",
+  "authentication": "yes",
+  "module": "SynoFileHostingPornolab.php",
+  "class": "SynoFileHostingPornolab"
+}

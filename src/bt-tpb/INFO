@@ -1,0 +1,12 @@
+{
+  "name": "bt-tpb",
+  "displayname": "The Pirate Bay",
+  "description": "Synox: Search torrent files to thepiratebay.se (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "https://thepiratebay.se",
+  "hostprefix": "thepiratebay.se",
+  "accountsupport": true,
+  "module": "SynoDLMSearchTpb.php",
+  "type": "search",
+  "class": "SynoDLMSearchTpb"
+}

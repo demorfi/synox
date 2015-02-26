@@ -1,0 +1,12 @@
+{
+  "name": "bt-rutracker",
+  "displayname": "Rutracker",
+  "description": "Synox: Search torrent files to rutracker.org (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://rutracker.org",
+  "hostprefix": "rutracker.org",
+  "accountsupport": true,
+  "module": "SynoDLMSearchRutracker.php",
+  "type": "search",
+  "class": "SynoDLMSearchRutracker"
+}

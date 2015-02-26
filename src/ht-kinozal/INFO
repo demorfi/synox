@@ -1,0 +1,11 @@
+{
+  "name": "ht-kinozal",
+  "displayname": "Kinozal",
+  "description": "Synox: Download torrent files to kinozal.tv (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://kinozal.tv",
+  "hostprefix": "kinozal.tv",
+  "authentication": "yes",
+  "module": "SynoFileHostingKinozal.php",
+  "class": "SynoFileHostingKinozal"
+}

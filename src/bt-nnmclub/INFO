@@ -1,0 +1,12 @@
+{
+  "name": "bt-nnmclub",
+  "displayname": "NoNaMe-Club",
+  "description": "Synox: Search torrent files to nnm-club.me (repository plugin https://github.com/demorfi/synox)",
+  "version": "1.0",
+  "site": "http://nnm-club.me",
+  "hostprefix": "nnm-club.me",
+  "accountsupport": true,
+  "module": "SynoDLMSearchNNMClub.php",
+  "type": "search",
+  "class": "SynoDLMSearchNNMClub"
+}
