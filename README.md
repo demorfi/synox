@@ -1,0 +1,2 @@
+# synox
+Synology plugins repository
