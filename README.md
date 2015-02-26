@@ -108,6 +108,7 @@ Available options [opt:]
 * h-host ***(module name for single search, use only search toolbar)***
 * p-page ***(max page search)***
 * d-1 ***(use debug mode)***
+
 #### Example
 * [opt:h-rutracker]In Time ***(for only search)***
 * [opt:p-2,h-rutracker]In Time ***(for search only host and max search page)***
