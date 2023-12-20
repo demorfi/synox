@@ -2,6 +2,12 @@
 -------
 Unofficial synology plugins repository.
 
+Attention!
+========
+This project is marked as archived. 
+Use an alternative in the form of [SynoX Web](https://github.com/demorfi/synox-web) 
+and [Synology SynoX Web Plugins](https://github.com/demorfi/synology-synox-web-plugins)
+
 Required
 ========
 * DSM 5.1
